@@ -133,8 +133,6 @@ More in [`revision.md`](artifacts/seedling/docs/revision.md).
 
 ## AI-Use Disclosure
 
-I used AI tools to build and document this project. The draft disclosure covers the tools I used, how they helped, sample prompts, where I changed or rejected AI suggestions, and how I checked the work.
-
 Read it here: [`ai-use-disclosure.md`](artifacts/seedling/docs/ai-use-disclosure.md)
 
 ---
