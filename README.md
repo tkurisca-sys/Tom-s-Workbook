@@ -17,7 +17,7 @@ Seedling is an educational prototype that helps beginners understand startup val
 
 ## Demo Video
 
-- **Draft demo (Google Drive):** [PASTE GOOGLE DRIVE LINK HERE]
+- **Draft demo (Google Drive):** [[https://drive.google.com/drive/u/2/folders/1A7vPQWASUvGrOovrIM-c6vFZm21T2Jtr]
 - Viewing access is granted to Emelia Hughes and Samuel Huang.
 
 ---
